@@ -1,1 +1,2 @@
 novi prazan file za vjebanje git-a
+dodavanje novog reda u ovaj dokument
